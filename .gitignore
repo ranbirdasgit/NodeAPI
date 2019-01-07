@@ -1,0 +1,6 @@
+/db/*
+/node_modules/*
+/secret/*
+/bin/*
+package.json
+app.js
