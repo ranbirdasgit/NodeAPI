@@ -4,7 +4,7 @@ var connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'cgcrrp_main'
+    database: ''
 });
 
 module.exports = connection;
